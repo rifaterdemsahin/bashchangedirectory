@@ -1,0 +1,5 @@
+access workstation > switchbot
+any desk access
+one screenfocus
+turn on the linux workstation
+share it to others > openshift clusters
